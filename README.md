@@ -58,4 +58,11 @@ npm install
 Start the Node.js server:
 bash
 Copy code
-npm start
+npm start![image](https://github.com/user-attachments/assets/b3e5f9d7-91f6-4a3f-83d7-9ae6c293caa9)![image](https://github.com/user-attachments/assets/d0514155-ca77-4122-aecb-2aa53d5aa1e2)
+![image](https://github.com/user-attachments/assets/65f6d472-d539-455e-ad8f-46877c03af16)![image](https://github.com/user-attachments/assets/96a0060d-f3df-45b5-9a90-74d71944efa2)
+
+![image](https://github.com/user-attachments/assets/806a9b51-9cd8-44b8-8f74-298d754c2da9)![image](https://github.com/user-attachments/assets/d2c6ba6f-dea8-44ab-87aa-aafd2009ff4a)
+![image](https://github.com/user-attachments/assets/5cb2e691-9a46-4b8d-a083-13f03ca9c6ba)
+
+
+
