@@ -1,22 +1,61 @@
-# Customized T-shirt Platform
+Customized T-shirt Platform
 
-This is a full-stack project for a **Customized T-shirt Platform** where users can browse, customize, and order T-shirts. The platform allows users to choose T-shirt sizes, colors, and add custom designs before placing an order.
+A modern and responsive T-shirt selling platform inspired by Krist Shop. Built using React.js with a clean UI and intuitive navigation.
 
-### Tech Stack
-- **Frontend:** React.js
-- **Backend:** Node.js with Express
-- **Database (Optional):** MongoDB (for storing products and orders)
-- **Deployment:** You can deploy the frontend on platforms like **Vercel** or **Netlify**, and the backend on **Heroku** or **Render**.
+Features
 
----
+Homepage showcasing featured T-shirts and categories
 
-## Features
+Product Listing Page with filtering options
 
-- **Product Selection:** Users can choose from various T-shirt types and sizes.
-- **Customization:** Users can upload images or add text to design their T-shirt.
-- **Preview:** Users can view the customized T-shirt before placing the order.
-- **Order Submission:** Users can finalize the order by providing necessary details like T-shirt size, color, and quantity.
+Product Details Page with detailed descriptions, size charts, and reviews
 
+Cart Page for managing selected items
+
+Checkout Page for secure order placement
+
+User Profile Page with order history and saved items
+
+Login/Signup Page with social login options
+
+Contact Us/Help Page with FAQs and support chat
+
+Admin Dashboard for managing inventory and customer interactions
+
+Tech Stack
+
+React.js for UI Development
+
+React Router for navigation
+
+Tailwind CSS for styling
+
+
+Project Structure
+
+/src
+  /components
+    ├── Navbar.jsx
+    ├── Footer.jsx
+  /pages
+    ├── Homepage.jsx
+    ├── ProductListing.jsx
+    ├── ProductDetails.jsx
+    ├── CartPage.jsx
+    ├── CheckoutPage.jsx
+    ├── ProfilePage.jsx
+    ├── LoginSignup.jsx
+    ├── ContactUs.jsx
+    ├── AdminDashboard.jsx
+  ├── App.js
+  ├── index.js
+
+Installation
+
+git clone https://github.com/your-username/tshirt-selling-platform.git
+cd tshirt-selling-platform
+npm install
+npm start
 ---
 
 ## Project Structure
@@ -35,29 +74,7 @@ server/ │ ├── controllers/ │ ├── productController.js │ └─
 yaml
  
 ---
-
-## Installation
-
-### Frontend (React.js)
-
-1. Navigate to the `client/` directory.
  
-3. Install dependencies:
- 
-   npm install
-Start the React development server:
- 
-npm start
-
-Backend (Node.js)
-
-Navigate to the server/ directory.
-
-Install dependencies:
-npm install
-Start the Node.js server:
-bash
-Copy code
 npm start![image](https://github.com/user-attachments/assets/b3e5f9d7-91f6-4a3f-83d7-9ae6c293caa9)![image](https://github.com/user-attachments/assets/d0514155-ca77-4122-aecb-2aa53d5aa1e2)
 ![image](https://github.com/user-attachments/assets/65f6d472-d539-455e-ad8f-46877c03af16)![image](https://github.com/user-attachments/assets/96a0060d-f3df-45b5-9a90-74d71944efa2)
 
